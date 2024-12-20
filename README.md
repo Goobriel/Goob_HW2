@@ -1,1 +1,1 @@
-CSC 175 @ UM - Flint: Check Book Assignment
+CSC 275 @ UM - Flint: Check Book Assignment
